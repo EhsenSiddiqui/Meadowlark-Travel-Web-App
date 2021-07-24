@@ -1,0 +1,15 @@
+{
+  "name": "ahsan",
+  "version": "1.0.0",
+  "description": "It's my first Node and Express project's package",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahsan Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2"
+  }
+}
